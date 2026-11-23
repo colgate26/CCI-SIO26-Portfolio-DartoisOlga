@@ -122,6 +122,7 @@ Une question, une proposition ou une opportunité ? Écrivez-moi, je vous répon
 
 - **Titre** : Portrait d'Olga Dartois-Stojadinovic
 - **Fichier** : portrait.jpg
+- **Alt** : Portrait Olga
 
 <div style="page-break-after:always"></div>
 
@@ -430,18 +431,17 @@ Ce site est réalisé dans le cadre du BTS SIO.
 
 | N°   | Titre                                   | Fichier (dossier medias)  | Page      | Texte alt                                                    |
 | ---- | --------------------------------------- | ------------------------- | --------- | ------------------------------------------------------------ |
-| 1    | Portrait d'Olga Dartois-Stojadinovic    | portrait.jpg              | Accueil   | Olga Dartois-Stojadinovic, souriante, en tenue professionnelle, devant un fond neutre |
-| 2    | Poste de travail informatique           | parcours-poste.jpg        | Parcours  | Poste de travail avec deux écrans affichant des fenêtres de gestion système |
-| 3    | Bâtiment de l'IGBMC                     | igbmc-batiment.jpg        | Parcours  | Façade du bâtiment de l'IGBMC à Illkirch                     |
-| 4    | Icônes des compétences                  | competences-icones.svg    | Parcours  | Ensemble d'icônes représentant un ordinateur, un réseau, un cadenas et un ticket de support |
-| 5    | Schéma du processus de migration        | projet-migration-25h2.png | Projets   | Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification |
-| 6    | Déploiement de logiciels sur des postes | projet-logiciels.png      | Projets   | Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail |
-| 7    | Cycle de vie d'un ticket                | projet-glpi.png           | Projets   | Schéma du parcours d'un ticket : création, prise en charge, résolution, clôture |
-| 8    | Aperçu du portfolio                     | projet-portfolio.png      | Projets   | Capture d'écran de la page d'accueil du portfolio sur ordinateur |
-| 9    | Illustration atelier 3                  | atelier3.png              | Atelier 3 | [À compléter]                                                |
-| 10   | Illustration atelier 4                  | atelier4.png              | Atelier 4 | [À compléter]                                                |
-| 11   | Loupe sur un code informatique          | veille-loupe.jpg          | Veille    | Loupe posée sur un écran affichant des lignes de code        |
-| 12   | Logo LinkedIn                           | icone-linkedin.svg        | Toutes    | Logo LinkedIn                                                |
-| 13   | Logo GitHub                             | icone-github.svg          | Toutes    | Logo GitHub                                                  |
-| 14   | Enveloppe e-mail                        | icone-mail.svg            | Toutes    | Enveloppe symbolisant l'envoi d'un e-mail                    |
-| 15   | Flèche haut                             | icone-haut.svg            | Toutes    | Flèche vers le haut                                          |
+| 1    | Portrait d'Olga Dartois-Stojadinovic    | portrait.jpg              | Accueil   | Portrait Olga                                                |
+| 2    | Bâtiment de l'IGBMC                     | igbmc-batiment.jpg        | Parcours  | Façade du bâtiment de l'IGBMC à Illkirch                     |
+| 3    | Icônes des compétences                  | competences-icones.svg    | Parcours  | Ensemble d'icônes représentant un ordinateur, un réseau, un cadenas et un ticket de support |
+| 4    | Schéma du processus de migration        | projet-migration-25h2.png | Projets   | Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification |
+| 5    | Déploiement de logiciels sur des postes | projet-logiciels.png      | Projets   | Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail |
+| 6    | Cycle de vie d'un ticket                | projet-glpi.png           | Projets   | Schéma du parcours d'un ticket : création, prise en charge, résolution, clôture |
+| 7    | Aperçu du portfolio                     | projet-portfolio.png      | Projets   | Capture d'écran de la page d'accueil du portfolio sur ordinateur |
+| 8    | Illustration atelier 3                  | atelier3.png              | Atelier 3 | [À compléter]                                                |
+| 9    | Illustration atelier 4                  | atelier4.png              | Atelier 4 | [À compléter]                                                |
+| 10   | Loupe sur un code informatique          | veille-loupe.jpg          | Veille    | Loupe posée sur un écran affichant des lignes de code        |
+| 11   | Logo LinkedIn                           | icone-linkedin.svg        | Toutes    | Logo LinkedIn                                                |
+| 12   | Logo GitHub                             | icone-github.svg          | Toutes    | Logo GitHub                                                  |
+| 13   | Enveloppe e-mail                        | icone-mail.svg            | Toutes    | Enveloppe symbolisant l'envoi d'un e-mail                    |
+| 14   | Flèche haut                             | icone-haut.svg            | Toutes    | Flèche vers le haut                                          |
