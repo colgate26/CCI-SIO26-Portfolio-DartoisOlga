@@ -202,12 +202,12 @@ Pour des raisons de confidentialité, cette page ne contient aucune information 
 
 ### 4.10. Illustrations
 
-![Façade du bâtiment de l'IGBMC à Illkirch](C:\Users\dartoiso\Downloads\medias\igbmc-batiment.jpg)
+<img src="\var\www\html\portfolio\documentation\medias\igbmc-batiment.jpg" alt="Façade du bâtiment de l'IGBMC à Illkirch"/>
 
 - **Titre** : Bâtiment de l'IGBMC
 - **Fichier** : igbmc-batiment.jpg
 - **Alt** : Façade du bâtiment de l'IGBMC à Illkirch
-- **Crédit** : [À compléter : source ou autorisation]
+- **Source** : igbmc.fr
 
 <div style="page-break-after:always"></div>
 
@@ -238,8 +238,6 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 - **Technologies** : Windows 11 (23H2, 25H2), KACE, réseau interne, GLPI.
 - **Résultat et apprentissage** : j'ai compris l'intérêt d'un déploiement centralisé et reproductible. Un parc homogène et à jour réduit les vulnérabilités et facilite le suivi.
 
-![Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification](C:\Users\dartoiso\Downloads\medias\projet-migration-25h2.png)
-
 - **Titre** : Schéma du processus de migration
 - **Fichier** : projet-migration-25h2.png
 - **Alt** : Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification
@@ -263,26 +261,9 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 - **Fichier** : projet-logiciels.png
 - **Alt** : Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail
 
-### 5.6. Projet 3 - Support utilisateurs avec GLPI
 
-- **Titre (H2)** : Support utilisateurs et suivi des demandes avec GLPI
-- **Contexte** : alternance à l'IGBMC.
-- **Besoin** : répondre aux demandes et aux incidents de manière organisée et traçable.
-- **Ce que j'ai fait** :
-  - prise en charge des demandes des utilisateurs ;
-  - diagnostic et résolution d'incidents ;
-  - suivi et mise à jour des tickets dans GLPI ;
-  - communication claire avec les utilisateurs.
-- **Technologies** : GLPI.
-- **Résultat et apprentissage** : chaque demande est tracée de sa création à sa résolution. Cette traçabilité rejoint la rigueur attendue dans la police scientifique.
 
-![Schéma du parcours d'un ticket : création, prise en charge, résolution, clôture](C:\Users\dartoiso\Downloads\medias\projet-glpi.png)
-
-- **Titre** : Cycle de vie d'un ticket
-- **Fichier** : projet-glpi.png
-- **Alt** : Schéma du parcours d'un ticket : création, prise en charge, résolution, clôture
-
-### 5.7. Projet 4 - Création de ce portfolio
+### 5.6. Projet 4 - Création de ce portfolio
 
 - **Titre (H2)** : Conception et réalisation de mon portfolio
 - **Contexte** : atelier de professionnalisation 1 du BTS SIO.
@@ -301,7 +282,7 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 - **Fichier** : projet-portfolio.png
 - **Alt** : Capture d'écran de la page d'accueil du portfolio sur ordinateur
 
-### 5.8. Liens vers les projets d'ateliers
+### 5.7. Liens vers les projets d'ateliers
 
 - « Voir le projet de l'atelier 3 » vers atelier3.html
 - « Voir le projet de l'atelier 4 » vers atelier4.html
