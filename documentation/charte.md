@@ -1,9 +1,15 @@
 ---
-title: Charte graphique - Portfolio Olga Dartois-Stojadinovic
+title: Charte du portfolio - Olga Dartois-Stojadinovic
 author: Olga Dartois-Stojadinovic
+creator: Typora inc.
+subject: Atelier de professionnalisation 1 - Portfolio
+header:
+footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 
-# Charte graphique - Portfolio Olga Dartois-Stojadinovic
+# Projet Professionnel 1 | Portfolio - Charte
+
+
 
 ## 1. Le projet
 
@@ -63,7 +69,17 @@ author: Olga Dartois-Stojadinovic
 
 ## 4. La maquette
 
-**Lien Figma** : [À compléter] (Pages : *01 - Wireframe*, *02 - Maquette UI*, *03 - Prototype*, *Charte graphique*).
+<img src="\var\www\html\portfolio\documentation\medias\01Accueil.png"/>
+
+<img src="\var\www\html\portfolio\documentation\medias\02Parcours.png"/>
+
+<img src="\var\www\html\portfolio\documentation\medias\03Projets.png"/>
+
+<img src="\var\www\html\portfolio\documentation\medias\04Atelier3.png"/>
+
+<img src="\var\www\html\portfolio\documentation\medias\05Atelier4.png"/>
+
+<img src="\var\www\html\portfolio\documentation\medias\06Veille.png"/>
 
 ### Structure responsive par page
 * **En-tête & Pied de page (communs)** : En-tête bordeaux `sticky` (menu burger sur mobile/tablette, horizontal avec sélecteur FR/EN sur ordinateur). Pied de page prune avec filet jaune beurre de 4 px.

@@ -7,14 +7,7 @@ header:
 footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ---
 
-# Contenu du portfolio - Olga Dartois-Stojadinovic
-
-------
-
-**Version** : 1.0
-**Auteur** : Olga Dartois-Stojadinovic
-**Date de création** : 23/11/2026 - O. DARTOIS-STOJADINOVIC
-**Date de modification** : 23/11/2026 - O. DARTOIS-STOJADINOVIC
+# Projet Professionnel 1 | Portfolio - Contenu
 
 **Sommaire :**
 
@@ -285,7 +278,7 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 - **Technologies** : Markdown, Git, GitHub, Figma, HTML, CSS, JavaScript.
 - **Résultat et apprentissage** : j'ai appris à organiser un projet par étapes, comme dans une relation client-prestataire, et à documenter mon travail pour qu'un autre technicien puisse le reprendre.
 
-![Capture d'écran de la page d'accueil du portfolio sur ordinateur](C:\Users\dartoiso\Downloads\medias\projet-portfolio.png)
+<img src="\var\www\html\portfolio\documentation\medias\projet-portfolio.png" alt="Capture d'écran de la page d'accueil du portfolio sur ordinateur"/>
 
 - **Titre** : Aperçu du portfolio
 - **Fichier** : projet-portfolio.png
