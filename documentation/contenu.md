@@ -48,15 +48,15 @@ Aucune donnée interne de l'IGBMC (noms de serveurs, adresses IP, procédures, l
 
 ### 1.6. Plan du site
 
-| N°   | Page                  | Fichier HTML          |
-| ---- | --------------------- | --------------------- |
-| 1    | Accueil               | index.html            |
-| 2    | Parcours              | parcours.html         |
-| 3    | Projets               | projets.html          |
-| 4    | Projet de l'atelier 3 | atelier3.html         |
-| 5    | Projet de l'atelier 4 | atelier4.html         |
-| 6    | Veille technologique  | veille.html           |
-| 7    | Mentions légales      | mentions-legales.html |
+| N°   | Page                  |
+| ---- | --------------------- |
+| 1    | Accueil               |
+| 2    | Parcours              |
+| 3    | Projets               |
+| 4    | Projet de l'atelier 3 |
+| 5    | Projet de l'atelier 4 |
+| 6    | Veille technologique  |
+| 7    | Mentions légales      |
 
 <div style="page-break-after:always"></div>
 
@@ -86,7 +86,7 @@ Aucune donnée interne de l'IGBMC (noms de serveurs, adresses IP, procédures, l
 
 <div style="page-break-after:always"></div>
 
-## 3. Page Accueil (index.html)
+## 3. Page Accueil 
 
 ### 3.1. Titre de la page (balise title)
 
@@ -120,13 +120,15 @@ Une question, une proposition ou une opportunité ? Écrivez-moi, je vous répon
 
 ### 3.7. Illustration
 
-- **Titre** : Portrait d'Olga Dartois-Stojadinovic
-- **Fichier** : portrait.jpg
-- **Alt** : Portrait Olga
+<img src="\var\www\html\portfolio\documentation\medias\initiale.jpg" alt="Initiale Olga"/>
+
+- **Titre** : Initiale d'Olga Dartois-Stojadinovic
+- **Fichier** : initiale.jpg
+- **Alt** : Initiale Olga
 
 <div style="page-break-after:always"></div>
 
-## 4. Page Parcours (parcours.html)
+## 4. Page Parcours 
 
 ### 4.1. Titre de la page
 
@@ -212,7 +214,7 @@ Pour des raisons de confidentialité, cette page ne contient aucune information 
 
 <div style="page-break-after:always"></div>
 
-## 5. Page Projets (projets.html)
+## 5. Page Projets
 
 ### 5.1. Titre de la page
 
@@ -225,6 +227,12 @@ Mes projets
 ### 5.3. Introduction
 
 Voici les projets réalisés pendant ma formation et mon alternance. Chacun présente son contexte, le besoin, mon intervention, les technologies utilisées et ce que j'en retiens. Les projets des ateliers de professionnalisation 3 et 4 ont chacun leur page dédiée.
+
+<img src="\var\www\html\portfolio\documentation\medias\projet-grand.jpg" alt="Schéma des projets"/>
+
+- **Titre** : Schéma des projets en cours
+- **Fichier** : projet-grand.jpg
+- **Alt** : Schéma des projets
 
 ### 5.4. Projet 1 - Migration du parc Windows de 23H2 vers 25H2
 
@@ -239,8 +247,10 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 - **Technologies** : Windows 11 (23H2, 25H2), KACE, réseau interne, GLPI.
 - **Résultat et apprentissage** : j'ai compris l'intérêt d'un déploiement centralisé et reproductible. Un parc homogène et à jour réduit les vulnérabilités et facilite le suivi.
 
+<img src="\var\www\html\portfolio\documentation\medias\schema-migration.jpg" alt="Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification"/>
+
 - **Titre** : Schéma du processus de migration
-- **Fichier** : projet-migration-25h2.png
+- **Fichier** : schema-migration.jpg
 - **Alt** : Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification
 
 ### 5.5. Projet 2 - Installation et gestion de logiciels
@@ -256,15 +266,13 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 - **Technologies** : KACE, Windows 11.
 - **Résultat et apprentissage** : j'ai appris à adapter une installation à des besoins différents et à garder une méthode rigoureuse pour limiter les erreurs.
 
-![Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail](C:\Users\dartoiso\Downloads\medias\projet-logiciels.png)
+<img src="\var\www\html\portfolio\documentation\medias\schema-console.jpg" alt="Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail"/>
 
 - **Titre** : Déploiement de logiciels sur des postes
-- **Fichier** : projet-logiciels.png
+- **Fichier** : schema-console.jpg
 - **Alt** : Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail
 
-
-
-### 5.6. Projet 4 - Création de ce portfolio
+### 5.6. Projet 3 - Création de ce portfolio
 
 - **Titre (H2)** : Conception et réalisation de mon portfolio
 - **Contexte** : atelier de professionnalisation 1 du BTS SIO.
@@ -290,7 +298,7 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 
 <div style="page-break-after:always"></div>
 
-## 6. Page Projet de l'atelier 3 (atelier3.html)
+## 6. Page Projet de l'atelier 3
 
 > Le sujet de l'atelier 3 n'est pas encore connu. Cette page est prévue dès maintenant avec sa structure. Les textes seront complétés au fil de l'atelier.
 
@@ -321,13 +329,21 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 
 ### 6.7. Illustration
 
+<img src="\var\www\html\portfolio\documentation\medias\projet-petit.jpg" alt="Schéma d'un projet en cours"/>
+
+- **Titre** :Schéma d'un projet en cours
+- **Fichier** : projet-petit.png
+- **Alt** : Schéma d'un projet en cours
+
+
+
 - **Titre** : [À compléter]
 - **Fichier** : atelier3.png
 - **Alt** : [À compléter]
 
 <div style="page-break-after:always"></div>
 
-## 7. Page Projet de l'atelier 4 (atelier4.html)
+## 7. Page Projet de l'atelier 4
 
 > Même structure que la page de l'atelier 3. Contenu à compléter lors de l'atelier 4.
 
@@ -358,13 +374,21 @@ Voici les projets réalisés pendant ma formation et mon alternance. Chacun pré
 
 ### 7.7. Illustration
 
+<img src="\var\www\html\portfolio\documentation\medias\projet-petit.jpg" alt="Schéma d'un projet en cours"/>
+
+- **Titre** :Schéma d'un projet en cours
+- **Fichier** : projet-petit.png
+- **Alt** : Schéma d'un projet en cours
+
+
+
 - **Titre** : [À compléter]
 - **Fichier** : atelier4.png
 - **Alt** : [À compléter]
 
 <div style="page-break-after:always"></div>
 
-## 8. Page Veille technologique (veille.html)
+## 8. Page Veille technologique
 
 ### 8.1. Titre de la page
 
@@ -389,15 +413,14 @@ Je suis l'actualité de la cybersécurité, de l'investigation numérique (foren
 
 ### 8.6. Illustration
 
-![Loupe posée sur un écran affichant des lignes de code](C:\Users\dartoiso\Downloads\medias\veille-loupe.jpg)
+<img src="\var\www\html\portfolio\documentation\medias\veille.jpg" alt="Loupe posée sur un écran affichant des lignes de code"/>**Titre** : Loupe sur un code informatique
 
-- **Titre** : Loupe sur un code informatique
-- **Fichier** : veille-loupe.jpg
+- **Fichier** : veille.jpg
 - **Alt** : Loupe posée sur un écran affichant des lignes de code
 
 <div style="page-break-after:always"></div>
 
-## 9. Page Mentions légales (mentions-legales.html)
+## 9. Page Mentions légales 
 
 > Ce texte est un premier jet. Il sera finalisé et complété lors du rendu 3.
 
@@ -427,21 +450,20 @@ Ce site est réalisé dans le cadre du BTS SIO.
 
 <div style="page-break-after:always"></div>
 
+
+
 ## 10. Récapitulatif des illustrations
 
-| N°   | Titre                                   | Fichier (dossier medias)  | Page      | Texte alt                                                    |
-| ---- | --------------------------------------- | ------------------------- | --------- | ------------------------------------------------------------ |
-| 1    | Portrait d'Olga Dartois-Stojadinovic    | portrait.jpg              | Accueil   | Portrait Olga                                                |
-| 2    | Bâtiment de l'IGBMC                     | igbmc-batiment.jpg        | Parcours  | Façade du bâtiment de l'IGBMC à Illkirch                     |
-| 3    | Icônes des compétences                  | competences-icones.svg    | Parcours  | Ensemble d'icônes représentant un ordinateur, un réseau, un cadenas et un ticket de support |
-| 4    | Schéma du processus de migration        | projet-migration-25h2.png | Projets   | Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification |
-| 5    | Déploiement de logiciels sur des postes | projet-logiciels.png      | Projets   | Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail |
-| 6    | Cycle de vie d'un ticket                | projet-glpi.png           | Projets   | Schéma du parcours d'un ticket : création, prise en charge, résolution, clôture |
-| 7    | Aperçu du portfolio                     | projet-portfolio.png      | Projets   | Capture d'écran de la page d'accueil du portfolio sur ordinateur |
-| 8    | Illustration atelier 3                  | atelier3.png              | Atelier 3 | [À compléter]                                                |
-| 9    | Illustration atelier 4                  | atelier4.png              | Atelier 4 | [À compléter]                                                |
-| 10   | Loupe sur un code informatique          | veille-loupe.jpg          | Veille    | Loupe posée sur un écran affichant des lignes de code        |
-| 11   | Logo LinkedIn                           | icone-linkedin.svg        | Toutes    | Logo LinkedIn                                                |
-| 12   | Logo GitHub                             | icone-github.svg          | Toutes    | Logo GitHub                                                  |
-| 13   | Enveloppe e-mail                        | icone-mail.svg            | Toutes    | Enveloppe symbolisant l'envoi d'un e-mail                    |
-| 14   | Flèche haut                             | icone-haut.svg            | Toutes    | Flèche vers le haut                                          |
+| Page / Section         | Titre                                   | Fichier                | Texte alternatif (`alt`)                                     | Source           |
+| ---------------------- | --------------------------------------- | ---------------------- | ------------------------------------------------------------ | ---------------- |
+| Accueil                | Initiale d'Olga Dartois-Stojadinovic    | `initiale.jpg`         | Initiale Olga                                                | Gemini           |
+| Parcours               | Bâtiment de l'IGBMC                     | `igbmc-batiment.jpg`   | Façade du bâtiment de l'IGBMC à Illkirch                     | igbmc.fr         |
+| Projets (Introduction) | Schéma des projets en cours             | `projet-grand.jpg`     | Schéma des projets                                           | Gemini           |
+| Projets (Projet 1)     | Schéma du processus de migration        | `schema-migration.jpg` | Schéma en trois étapes montrant la préparation du déploiement, l'installation sur les postes puis la vérification | Gemini           |
+| Projets (Projet 2)     | Déploiement de logiciels sur des postes | `schema-console.jpg`   | Schéma d'une console centrale envoyant des logiciels vers plusieurs postes de travail | Gemini           |
+| Projets (Projet 3)     | Aperçu du portfolio                     | `projet-portfolio.png` | Capture d'écran de la page d'accueil du portfolio sur ordinateur | Capture maquette |
+| Projet de l'atelier 3  | Schéma d'un projet en cours             | `projet-petit.jpg`     | Schéma d'un projet en cours                                  | Gemini           |
+| Projet de l'atelier 3  | [À compléter]                           | `atelier3.png`         | [À compléter]                                                | [À compléter]    |
+| Projet de l'atelier 4  | Schéma d'un projet en cours             | `projet-petit.jpg`     | Schéma d'un projet en cours                                  | Gemini           |
+| Projet de l'atelier 4  | [À compléter]                           | `atelier4.png`         | [À compléter]                                                | [À compléter]    |
+| Veille technologique   | Loupe sur un code informatique          | `veille.jpg`           | Loupe posée sur un écran affichant des lignes de code        | Gemini           |
